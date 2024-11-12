@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5184ed6ef33f3d24cad71dc553f6619b, type: 3}
+  m_Name: PickUp - SFX Object
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: d1b9d8cc5091097428f1f60949d95bbe, type: 3}
+  mixerGroup: {fileID: 7567458962784945187, guid: 04b6718d2e84bf248bd375c605a1de89,
+    type: 2}
+  loop: 0
+  volume: 0.5
+  randomizePitch: 0
+  pitchRangeLowerValue: 1
+  pitchRangeHigherValue: 1
+  randomizeClips: 0
+  audioClips: []

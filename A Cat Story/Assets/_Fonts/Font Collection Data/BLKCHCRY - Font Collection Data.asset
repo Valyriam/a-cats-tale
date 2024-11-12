@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977fc706da4870943906dd166f1d67a9, type: 3}
+  m_Name: BLKCHCRY - Font Collection Data
+  m_EditorClassIdentifier: 
+  standardFontSize: 0
+  neutralFont: {fileID: 11400000, guid: 93e65ae87c4a2554e9407ea7dc0883a2, type: 2}
+  bounceFont: {fileID: 11400000, guid: a0068763b69a814458bf17d5cd636c4c, type: 2}
+  bulletFont: {fileID: 11400000, guid: 5880ae38a2070e14fb1a8a62c0d9f05d, type: 2}
+  conveyorFont: {fileID: 11400000, guid: 9f78908f4b177c6429cad425cb332d9c, type: 2}
+  gravityFont: {fileID: 11400000, guid: 65c59a06eca6cd94e8cdfde9dd31e0d6, type: 2}
+  swipableFont: {fileID: 11400000, guid: 6d2264f332054434d83e99986cc9e07a, type: 2}
+  slipperyFont: {fileID: 11400000, guid: 1850510f50841334ea9be209f7989adb, type: 2}

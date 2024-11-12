@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977fc706da4870943906dd166f1d67a9, type: 3}
+  m_Name: SnickerSnack - Font Collection Data
+  m_EditorClassIdentifier: 
+  standardFontSize: 0
+  neutralFont: {fileID: 11400000, guid: 25c2cdd61b62f0e4ba0bed2adb5b83a3, type: 2}
+  bounceFont: {fileID: 11400000, guid: 6f613c24c89c40e4787bf4a946c1da89, type: 2}
+  bulletFont: {fileID: 11400000, guid: ea9e8e4c6ec4a6a468ac7d2f651a7116, type: 2}
+  conveyorFont: {fileID: 11400000, guid: fcee39f6cbe71ca4ea58d82000e9f5ac, type: 2}
+  gravityFont: {fileID: 11400000, guid: f071115fe39d78f409de2d826825cc4f, type: 2}
+  swipableFont: {fileID: 11400000, guid: dd36100eb2986c941b6529570bd17a95, type: 2}
+  slipperyFont: {fileID: 11400000, guid: ce5f462b4bb0173449342dafeb3212dc, type: 2}
+  neutralFontTextured: {fileID: 11400000, guid: 760c965d39d12f74082fe29e85bec879,
+    type: 2}
+  bounceFontTextured: {fileID: 11400000, guid: 8e757bd321b544943a575a7a1861891c, type: 2}
+  bulletFontTextured: {fileID: 11400000, guid: 102bfc97981e83745aa5ce5765cff0c4, type: 2}
+  conveyorFontTextured: {fileID: 11400000, guid: d5f1f63e0c2e9d042b691328a3886778,
+    type: 2}
+  gravityFontTextured: {fileID: 11400000, guid: 2dfc46c37ab95e142ab73dce5cdf4a7d,
+    type: 2}
+  swipableFontTextured: {fileID: 11400000, guid: 130484f523400304c8f9aec6104471be,
+    type: 2}
+  slipperyFontTextured: {fileID: 11400000, guid: 9f67ccb78ccc2e840bb47a232f424b2a,
+    type: 2}

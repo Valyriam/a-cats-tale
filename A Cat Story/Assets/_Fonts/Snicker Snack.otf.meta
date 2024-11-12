@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 219e6fefb9b08994491b184d4743bd25
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Snicker Snack
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dbc9344c42632654ead90ca2081b0ff2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
